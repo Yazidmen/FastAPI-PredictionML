@@ -6,8 +6,8 @@
 
 <h3>For more details about this project: </h3>
 <p>Here's the links of the Frontend Repository & the notebook of our model </p>
-<p><strong>->The ML Model  :</strong> https://github.com/medsaad2000/Football-Match-Probability-Prediction</p>
-<p><strong>->Frontend Repository (Angular 13) :</strong> https://github.com/medsaad2000/Front-PredictionML </p>
+<p><strong>->The ML Model  :</strong> https://github.com/Yazidmen/Football-Match-Probability-Prediction</p>
+<p><strong>->Frontend Repository (Angular 13) :</strong> https://github.com/Yazidmen/Front-Angular-PredictionML</p>
 <h3>Backend :</h3>
 <p>Technologie used : Python, FastAPI as a framework </p>
 
